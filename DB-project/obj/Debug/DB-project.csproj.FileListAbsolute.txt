@@ -1,0 +1,9 @@
+C:\Users\backy\Source\Repos\DB-project\DB-project\bin\DB-project.dll.config
+C:\Users\backy\Source\Repos\DB-project\DB-project\bin\DB-project.dll
+C:\Users\backy\Source\Repos\DB-project\DB-project\bin\DB-project.pdb
+C:\Users\backy\Source\Repos\DB-project\DB-project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\backy\Source\Repos\DB-project\DB-project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\backy\Source\Repos\DB-project\DB-project\obj\Debug\DB-project.csprojAssemblyReference.cache
+C:\Users\backy\Source\Repos\DB-project\DB-project\obj\Debug\DB-project.csproj.CopyComplete
+C:\Users\backy\Source\Repos\DB-project\DB-project\obj\Debug\DB-project.dll
+C:\Users\backy\Source\Repos\DB-project\DB-project\obj\Debug\DB-project.pdb
